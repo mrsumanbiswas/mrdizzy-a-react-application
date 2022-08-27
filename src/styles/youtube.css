@@ -1,0 +1,35 @@
+#YT {
+    padding-top: 3rem;
+    height: 60rem;
+    min-width: 768px;
+    background-color: antiquewhite;
+}
+
+#YT h1 {
+    padding-top: 10%;
+    text-align: center;
+    text-decoration: underline wavy;
+}
+
+#Input {
+    position: relative;
+    text-align: center;
+}
+
+#Input input {
+}
+
+#Input button {
+}
+
+#clear-img{
+    padding-left: 0.5rem;
+    padding-top: 0.2rem;
+    height: 1rem;
+}
+
+iframe{
+    padding: 3rem;
+    height: 80vh;
+    width: 85vw;
+}

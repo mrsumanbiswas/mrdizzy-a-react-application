@@ -1,0 +1,10 @@
+{
+    "MONGO_DB": {
+        "deploy": "mongodb+srv://mrdizzybot:5QE2sfEzfa5rfg3g@mrdizzy.6zjm7.mongodb.net/test",
+        "test": "localhost:27017"
+    },
+    "BOT_API": {
+        "deploy": "5030563641:AAEOMEVzu3mcudAlTshDxKMWWlBn2k1FgP8",
+        "test": "5119739882:AAGMxGNYbbwsYUQg41OtzH5sUjiE_pNv8pk"
+    }
+}

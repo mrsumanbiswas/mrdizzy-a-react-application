@@ -1,0 +1,41 @@
+#tool-body {
+    padding-top: 3.7rem;
+    height: 50rem;
+    background-color: #F7F7F7;
+}
+
+#tools {
+    position: absolute;
+    display: inline-block;
+    padding: 3rem;
+}
+
+#tool-item {
+    box-shadow: #FF9F45;
+}
+#tool-item:hover{
+    opacity: 70%;
+    color: aquamarine;
+    zoom: 103%;
+}
+
+#tools a {
+    color: #FF9F45;
+    text-decoration: none;
+}
+
+#tools a h2 {
+    padding-bottom: 0;
+}
+
+#tools a p {
+    padding-bottom: 0;
+    margin-left: -0.5rem;
+    font-size: x-small;
+}
+
+#tools a img {
+    height: 5rem;
+    padding-left: .5rem;
+    margin-top: -1rem;
+}

@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Atma&family=Galada&family=Mina&display=swap');
+/* 
+font-family: 'Atma', cursive;   
+font-family: 'Galada', cursive; 
+font-family: 'Mina', sans-serif;
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Open+Sans:wght@300&family=Playball&family=Playfair+Display&family=Sacramento&display=swap');
+/* 
+font-family: 'Libre Baskerville', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Playball', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Sacramento', cursive;
+*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&family=Mea+Culpa&family=Miniver&family=Sacramento&family=Work+Sans:wght@200&family=Yeon+Sung&display=swap');
+/* 
+font-family: 'Lovers Quarrel', cursive;
+font-family: 'Mea Culpa', cursive;
+font-family: 'Miniver', cursive;
+font-family: 'Sacramento', cursive;
+font-family: 'Yeon Sung', cursive;
+font-family: 'Work Sans', sans-serif;
+*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+/* 
+font-family: 'Kaushan Script', cursive; 
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+/* 
+font-family: 'Sacramento', cursive;
+*/
+
+
+#header {
+    --header-bg-color: #B83B5E;
+    --header-font-color: #00C897;
+    --header-font: 'Lovers Quarrel', cursive;
+    --header-font-size: 1rem;
+}
+
+.icon {
+    --icon-font-color: #603601;
+    --icon-border-radius: 35%;
+    --icon-hight: 3rem;
+}
+
+#nav {
+    --nav-font: 'Libre Baskerville', serif;
+}
+
+.nav-link:hover {
+    --nav-bg-color: #00C897;
+    --nav-border-color: #F9ED69;
+    --nav-text-color: #B83B5E;
+    --nav-border-radius: 5%;
+    --nav-box-shadow: #FFF89A;
+}
+
+#main {
+    --main-font-color: #B33030;
+    --main-bg-color: #19282F;
+    --main-font: 'Playfair Display', serif;
+    --main-bg-image-nature: url(https://wallpapercave.com/uwp/uwp1843208.jpeg);
+    --main-bg-image-spring: url(https://wallpapercave.com/wp/wp8875239.jpg);
+}
+
+#footer {
+    --footer-bg-color: #334756;
+    --footer-font-color: #F0A500;
+    --footer-font: 'Open Sans', sans-serif;
+}

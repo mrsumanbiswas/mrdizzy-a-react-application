@@ -1,0 +1,65 @@
+{
+    "bot":
+    {
+        "greetings": 
+        [
+            "Hi, my name is Mr. Dizzy ",
+            "What's up?",
+            "Tell me something",
+            [
+                "How are you?",
+                "How are you doing?",
+                "How are you going?"
+            ],
+            ["Ok","Yes","I'll do that now"],
+            ["Hello","Thank you","Goodbye"]
+        ],
+        "others":
+        [
+            "This is me telling you I didn't understand what you just mean. I am learning, you see. Could you try again?",
+            "Tell me something"
+        ]
+    },
+    "client": {
+        "how are you":"Fine, and you?",
+        "what are you doing":"Looking for you messages.",
+        "do you like people" : "YES MAN\n\tAnd you ?",
+        "does santa claus exist" : "I think NO and you ?",
+        "do you have a hobby" : "NO And YES",
+        "intelligent" : ",,_Thanks_,,\n\t\tYou too.\n",
+        "tell me about you" : "EMAIL: dizzytechician@gmail.com\nGITHUB: https://github.com/mrsumanbiswas \nLINKEDIN:https://www.linkedin.com/in/mrsumanbiswas \nTELEGRAM:@MrDizzy_Bot",
+        "are you a human":"NO !\nI'm a computer programme.",
+        "are you a robot": "I am a computer programme.",
+        "how old are you":")_(",
+        "what's your age":"-*-",
+        "who made you":"Mr Suman Biswas",
+        "which languages can you speak":"120+",
+        "whare do you live":"I live in alwhere the internet rich.",
+        "how many people can you chat to at once":"As much as people want to chat with me",
+        "weather":"Sorry I can't predic weather right now",
+        "who you boss":"Mr Suman Biswas",
+        "who are you":"I am Mr. Dizzy.\nI am here for helping you.\n\tThanks for connecting with me.",
+        "contac":"EMAIL: dizzytechician@gmail.com\nGITHUB: https://github.com/mrsumanbiswas \nLINKEDIN:https://www.linkedin.com/in/mrsumanbiswas \nTELEGRAM:@MrDizzy_Bot"
+    },
+    "joke":
+    [
+        "And the Lord said unto John,'Come forth and you will receive enternal life.'But Jonhn came fifth, and won a toaster.",
+        "I threw a boomerang a few years ago. I now live in constant fear.",
+        "You don't nees a parachute to go skydriving. You need a parachute to go skydriving twice.",
+        "Parallel lines have so much in common. It's shame they'll never meet.",
+        "Someone stole my mood ring, I don't know how I feel about that.",
+        "My grandfather has the heart of a lion and a lifetime ban at the zoo.",
+        "How many Germans does it take to screw in a lightbulb? One, they're efficient and not very funny.",
+        "Yout're not completely useless, you can always serve as a bad example.",
+        "I broke by finger last week. On the other hand, I'm okay.",
+        "Apparently, someone in London gets stabbed every 52 seconds. Poor bastand.",
+        "A Roman legionnaire walks into a bar, holds up two fingers and says, 'Five beers,please.'",
+        "Someone stole my Microsoft Office and they're gonna pay. You have my Word.",
+        "I tried to catch fog yesterday,Mist.",
+        "Working in a mirror factory is something I can totally see myself doing.",
+        "How does Moses make his coffee? Hebrews it.",
+        "I took the shell off my racing snail, thinking it would make him run faster. If anything, it made him more sluggish.",
+        "I feel bad for the homeless guy, but I feel really bad the homeless buy's dog, because he must be thinking 'Man, this is the longest walk ever.",
+        "What happend when the strawberry attempted to cross the road? There was a traffic jam!"
+    ]
+}

@@ -1,0 +1,44 @@
+/* body {
+  background-color: #04293A;
+  color: #ECB365;
+  max-width: 1440px;
+  min-width: 320px;
+  position: absolute;
+}
+
+.free-space{
+  color: transparent;
+  background-color: transparent;
+  padding: 2rem;
+  height: 5rem;
+  width: auto;
+}
+
+.Hr {
+  border-top: 1rem;
+  border-color: #CADEFC;
+  border-bottom: transparent;
+  border-style: dotted;
+  border-right-width: 1rem;
+  margin: 1rem 12rem 0rem;
+
+}
+
+
+#Main {
+  padding-top: 7rpm;
+  position: relative;
+}
+#Body{
+  max-width: 1080px;
+  min-width: 320px;
+}
+ */
+
+
+hr{
+ margin: 0px 0px 0px 12.5px;
+}
+#main{
+  padding-top: 3rem;
+}

@@ -1,0 +1,219 @@
+#about-main-content {
+    padding-top: 4rem;
+    height: 170rem;
+    background-color: #F0FFC2;
+    background-color: #00FFDD;
+    background-color: #2FA4FF;
+    background-color: #00C897;
+    background-color: #EAF6F6;
+}
+
+#about-body-top {
+    position: sticky;
+    color: #66BFBF;
+}
+
+#about-body-top h1 {
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 400%;
+}
+
+#about-body-top h2 {
+    margin-top: -2rem;
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+}
+
+#about-body-top h2 span {
+    text-decoration: underline dotted;
+}
+
+#about-body-top img {
+    display: inline;
+    position: relative;
+}
+
+#top-body-clouds-1 {
+    transform: rotate(-7deg);
+    width: 50%;
+}
+
+#top-body-clouds-2 {
+    transform: rotate(7deg);
+    width: 50%;
+}
+
+#top-body-view {
+    position: relative;
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: -4rem;
+}
+
+hr {
+    position: relative;
+    margin-left: 5%;
+    width: 85%;
+    border-style: dotted;
+    border-color: #11999E;
+    border-radius: 90%
+}
+
+
+#about-body-middle {
+    padding-top: 2rem;
+    position: relative;
+    color: #11999E;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+#about-body-middle center {
+    display: block;
+    padding: 2rem;
+}
+
+#profile-photo {
+    height: 12rem;
+    border-radius: 48%;
+    background-color: #FFD717;
+}
+
+#about-body-middle p {
+    color: #40514E;
+}
+
+#about-body-bottom {
+    position: relative;
+}
+
+#about-body-bottom h2 {
+    padding-left: 48%;
+    text-decoration: underline wavy .01rem;
+    padding-bottom: 10%;
+}
+
+#about-body-bottom h3 {
+    color: #00FFDD;
+}
+
+#about-body-bottom p {
+    max-width: 15rem;
+    font-family: 'Open Sans', sans-serif;
+    color: #40514E;
+}
+
+#skills {
+    position: absolute;
+    list-style: none;
+    display: contents;
+}
+
+#skill-1 {
+    padding-top: 5rem;
+    padding-left: 5rem;
+    padding-bottom: 5%;
+}
+
+#skill-2 {
+    padding-left: 45%;
+    padding-bottom: 5%;
+
+}
+
+#skill-3 {
+    padding-left: 80%;
+    padding-bottom: 5%;
+}
+
+#about-body-bottom img {
+    position: absolute;
+    opacity: 95%;
+    height: 10%;
+    max-width: 100%;
+}
+
+#vectors {
+    position: relative;
+    z-index: 300%;
+}
+
+#img-1 {
+    margin-top: -10%;
+    padding-left: 25%;
+}
+
+#img-2 {
+    margin-top: -10%;
+    padding-left: 50%;
+}
+
+#img-3 {
+    margin-top: -10%;
+    padding-left: 40%;
+}
+
+#img-4 {
+    margin-top: -10%;
+    margin-left: -40%;
+
+}
+
+#img-5 {
+    margin-top: -10%;
+    padding-left: 25%;
+}
+
+#img-6 {
+    margin-left: -20%;
+    margin-top: -10%;
+}
+
+#img-7 {
+    margin-top: -1.6%;
+    margin-left: -25%;
+
+}
+
+#img-8 {
+    margin-top: -32%;
+}
+
+#img-9 {
+    margin-top: -1.6%;
+    margin-left: -70%;
+}
+
+#img-10 {
+    margin-top: -1.6%;
+    margin-left: -45%;
+}
+
+#code-desk-img {
+    position: absolute;
+    width: 50%;
+    padding-top: 3.5%;
+    padding-left: 27%;
+}
+
+#sun-img-1 {
+    padding: 3%;
+    padding-left: 20%;
+}
+
+#sun-img-2 {
+    padding: 3%;
+    padding-left: 40%;
+}
+
+#sun-img-3 {
+    padding: 3%;
+    padding-left: 60%;
+}
+
+#sun-img-4 {
+    padding: 3%;
+    padding-left: 80%;
+}
