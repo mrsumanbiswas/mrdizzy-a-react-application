@@ -18,9 +18,9 @@ jobs:
       - name: Test the code
         run: npm test
       - name: Deploy to Firebase
-          uses: FirebaseExtended/action-hosting-deploy@v0
-          with:
-            repoToken: '${{ secrets.GITHUB_TOKEN }}'
-            firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MRDIZZY_A_REACT_APP }}'
-            channelId: live
-            projectId: mrdizzy-a-react-app
+      -uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MRDIZZY_A_REACT_APP }}'
+          channelId: live
+          projectId: mrdizzy-a-react-app
